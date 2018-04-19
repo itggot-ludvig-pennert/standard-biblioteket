@@ -3,3 +3,5 @@ def is_negative(number)
     if number < 0
         answer = true
     end
+    return answer
+end
